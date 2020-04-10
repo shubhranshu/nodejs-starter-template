@@ -4,11 +4,11 @@ Starter template to get going ith NodeJs CLI development.
 
 Tooling configured
 
-- [ ] ES6 support with babel
-- [ ] Nodemon
+- [x] ES6 support with babel
+- [x] Nodemon
 - [ ] Test script with Jest
-- [ ] build and watch-build scripts
-- [ ] Prettier and Eslint configs
+- [x] build and watch-build scripts
+- [x] Prettier and Eslint configs
 
 ## Setup
 
