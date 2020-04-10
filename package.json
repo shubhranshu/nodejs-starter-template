@@ -1,6 +1,6 @@
 {
   "name": "nodejs-starter-template",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Template repository to get strated with NodeJs CLI development",
   "main": "lib/index.js",
   "repository": "git@github.com:shubhranshu/nodeJs-starter-template.git",
@@ -14,7 +14,9 @@
     "watch-run": "npx nodemon --exec npx babel-node src/index.js"
   },
   "dependencies": {
-    "chalk": "^4.0.0"
+    "chalk": "^4.0.0",
+    "inquirer": "^7.1.0",
+    "progress": "^2.0.3"
   },
   "devDependencies": {
     "@ava/babel": "^1.0.1",
