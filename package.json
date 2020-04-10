@@ -5,5 +5,9 @@
   "main": "src/index.js",
   "repository": "git@github.com:shubhranshu/nodeJs-starter-template.git",
   "author": "Shubhranshu <1248830+shubhranshu@users.noreply.github.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
 }
