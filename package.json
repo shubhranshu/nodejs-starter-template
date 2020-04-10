@@ -14,7 +14,9 @@
     "watch-run": "npx nodemon --exec npx babel-node src/index.js"
   },
   "dependencies": {
-    "chalk": "^4.0.0"
+    "chalk": "^4.0.0",
+    "inquirer": "^7.1.0",
+    "progress": "^2.0.3"
   },
   "devDependencies": {
     "@ava/babel": "^1.0.1",
