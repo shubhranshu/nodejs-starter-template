@@ -4,14 +4,20 @@ Starter template to get going ith NodeJs CLI development.
 
 Tooling configured
 
-- [ ] ES6 support with babel
-- [ ] Nodemon
-- [ ] Test script with Jest
-- [ ] build and watch-build scripts
-- [ ] Prettier and Eslint configs
+- [x] ES6 support with babel
+- [x] Nodemon
+- [x] Test script with Ava
+- [x] build and watch-build scripts
+- [x] Prettier and Eslint configs
 
-## Setup
+## Usage and Configuration
 
-Create a new repository using this template
+Create a new repository using this template or copy the files as required.
+
+Scripts
+
+- 
+
+## ToDo
 
 - [ ] Being able to parameterise the setup
