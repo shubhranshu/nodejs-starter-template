@@ -7,13 +7,20 @@
   "author": "Shubhranshu <1248830+shubhranshu@users.noreply.github.com>",
   "license": "MIT",
   "scripts": {
-    "build": "",
-    "cli-run": "node src/index.js",
-    "watch-run": "npx nodemon src/index.js"
+    "build": "npx babel",
+    "cli-run": "npx babel-node src/index.js",
+    "watch-run": "npx nodemon --exec npx babel-node src/index.js"
   },
-  "dependencies": {},
+  "dependencies": {
+    "chalk": "^4.0.0"
+  },
   "devDependencies": {
-    "chalk": "^4.0.0",
+    "@babel/cli": "^7.8.4",
+    "@babel/core": "^7.9.0",
+    "@babel/node": "^7.8.7",
+    "@babel/preset-env": "^7.9.5",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^6.8.0",
     "nodemon": "^2.0.3"
   }
 }
