@@ -6,12 +6,18 @@ Tooling configured
 
 - [x] ES6 support with babel
 - [x] Nodemon
-- [ ] Test script with Jest
+- [x] Test script with Ava
 - [x] build and watch-build scripts
 - [x] Prettier and Eslint configs
 
-## Setup
+## Usage and Configuration
 
-Create a new repository using this template
+Create a new repository using this template or copy the files as required.
+
+Scripts
+
+- 
+
+## ToDo
 
 - [ ] Being able to parameterise the setup
