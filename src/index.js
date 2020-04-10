@@ -9,4 +9,3 @@ console.log('################ Chalk test Done ##############');
 console.log('################ CLI Demo Begins ##############');
 var cli = new InquirerCli();
 cli.start();
-console.log('################# CLI Demo Done ###############');
