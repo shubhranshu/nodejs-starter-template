@@ -13,6 +13,7 @@ Starter template to get going ith NodeJs CLI development without much fuss.
 - [x] Test script with Ava
 - [x] Watch scripts for run and tests
 - [x] Babel, Prettier and Eslint configs
+- [x] Github Actions for build and test
 
 ## Usage and Configuration
 
