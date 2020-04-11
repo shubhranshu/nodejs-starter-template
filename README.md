@@ -1,13 +1,19 @@
 # NodeJs CLI Starter template
 
-Starter template to get going ith NodeJs CLI development withoutuch fuss.
+Starter template to get going ith NodeJs CLI development without much fuss.
 
-Configured tooling
+| Branch  |                                                                                                           |                                                                                                         |
+| ------- | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
+| develop | ![Build](https://github.com/shubhranshu/nodejs-starter-template/workflows/Build/badge.svg?branch=develop) | ![Test](https://github.com/shubhranshu/nodejs-starter-template/workflows/Test/badge.svg?branch=develop) |
+| master  | ![Build](https://github.com/shubhranshu/nodejs-starter-template/workflows/Build/badge.svg?branch=master)  | ![Test](https://github.com/shubhranshu/nodejs-starter-template/workflows/Test/badge.svg?branch=master)  |
+
+## Configured tooling
 
 - [x] ES6 support with babel
 - [x] Test script with Ava
 - [x] Watch scripts for run and tests
 - [x] Babel, Prettier and Eslint configs
+- [x] Github Actions for build and test
 
 ## Usage and Configuration
 
@@ -23,7 +29,7 @@ Using this template to initialise repository or copy the files as required. Or s
 
 ### Packages
 
-We are using [Yarn](https://github.com/yarnpkg/yarn) as the default package manager. To use [npm](https://github.com/npm/cli) delete [yarn.lock](yarn.lock) and run `npm install`
+We are using [npm](https://github.com/npm/cli) as the default package manager. To use [Yarn](https://github.com/yarnpkg/yarn) delete [package-lock.json](package-lock.json) and run `yarn`
 
 - [chalk](https://github.com/chalk/chalk)
 - [inquirer](https://github.com/SBoudrias/Inquirer.js)
@@ -35,7 +41,6 @@ Dev dependencies
 - [babel](https://github.com/babel/babel)
 - [eslint](https://github.com/eslint/eslint)
 - [nodemon](https://github.com/remy/nodemon)
-
 
 ## To Do
 
