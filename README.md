@@ -1,11 +1,13 @@
 # NodeJs CLI Starter template
 
-![Build](https://github.com/shubhranshu/nodejs-starter-template/workflows/Build/badge.svg)
-![Test](https://github.com/shubhranshu/nodejs-starter-template/workflows/Test/badge.svg)
+Starter template to get going ith NodeJs CLI development without much fuss.
 
-Starter template to get going ith NodeJs CLI development withoutuch fuss.
+| Branch  |                                                                                                           |                                                                                                         |
+| ------- | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
+| develop | ![Build](https://github.com/shubhranshu/nodejs-starter-template/workflows/Build/badge.svg?branch=develop) | ![Test](https://github.com/shubhranshu/nodejs-starter-template/workflows/Test/badge.svg?branch=develop) |
+| master  | ![Build](https://github.com/shubhranshu/nodejs-starter-template/workflows/Build/badge.svg?branch=master)  | ![Test](https://github.com/shubhranshu/nodejs-starter-template/workflows/Test/badge.svg?branch=master)  |
 
-Configured tooling
+## Configured tooling
 
 - [x] ES6 support with babel
 - [x] Test script with Ava
