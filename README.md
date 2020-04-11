@@ -1,5 +1,8 @@
 # NodeJs CLI Starter template
 
+![Build](https://github.com/shubhranshu/nodejs-starter-template/workflows/Build/badge.svg)
+![Test](https://github.com/shubhranshu/nodejs-starter-template/workflows/Test/badge.svg)
+
 Starter template to get going ith NodeJs CLI development withoutuch fuss.
 
 Configured tooling
